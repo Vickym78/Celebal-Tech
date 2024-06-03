@@ -21,7 +21,7 @@ This project creates a simple HTTP server using Node.js that responds with "Hell
     ```
 
 3. **Create `app.js`**:
-```
+   ```
     Info in app.js file
     ```
 
